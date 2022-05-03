@@ -1,4 +1,11 @@
 # Speed-CNR<br>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=blue" />
+  <img src="https://img.shields.io/github/forks/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=blue" />
+  <img src="https://img.shields.io/github/issues/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=informational" />
+  <img src="https://img.shields.io/github/issues-pr/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=informational" /><br>
+  <a href="https://github.com/yutodadil/Speed-CNR/issues">Report Update.</a>
+</p>
 please Replace libUnity.so .<br>
 U Can Use ApkEditor(Master/Normal/Paid)<br>
 2 = 2 is about twice as fast and is actually 1.945,181,349,933,33 as fast.<br>
