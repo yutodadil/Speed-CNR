@@ -1,4 +1,6 @@
 # Speed-CNR<br>
+## これは64bit only supportです！
+## its a 64Bit only!!
 <p align="center">
   <img src="https://img.shields.io/github/stars/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=blue" />
   <img src="https://img.shields.io/github/forks/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=blue" />
