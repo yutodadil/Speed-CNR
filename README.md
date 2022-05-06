@@ -4,10 +4,12 @@
 ### これを広めないでください！！
 ### Plz Don't Share This Repo.
 <p align="center">
+  <a href="https://github.com/yutodadil/Speed-CNR">
   <img src="https://img.shields.io/github/stars/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=blue" />
   <img src="https://img.shields.io/github/forks/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=blue" />
   <img src="https://img.shields.io/github/issues/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=informational" />
   <img src="https://img.shields.io/github/issues-pr/yutodadil/Speed-CNR?style=for-the-badge&logo=appveyor&color=informational" /><br>
+  </a>
   <a href="https://github.com/yutodadil/Speed-CNR/issues">Report Update.</a>
 </p>
 please Replace libUnity.so .<br>
