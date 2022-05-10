@@ -22,3 +22,8 @@ libunity.soファイルに置き換えてください。<br>
 2倍は約2倍であり実際は1.945,181,349,933,33倍です。<br>
 70万倍は約70万倍であり実際は705,332.015,611,27倍です。<br>
 これはバージョン12.0.1(444)でのみ機能します。
+
+---
+Tutorial
+
+[![Click to Tutorial Video](https://www.youtube.com/watch?v=xqsLaMQSkbw "Tutorial Video")]
