@@ -26,4 +26,4 @@ libunity.soファイルに置き換えてください。<br>
 ---
 Tutorial
 
-[![Click to Tutorial Video](https://www.youtube.com/watch?v=xqsLaMQSkbw)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Tutorial Video")
+[![Click to Tutorial Video](https://www.youtube.com/watch?v=xqsLaMQSkbw)](https://www.youtube.com/watch?v=xqsLaMQSkbw"Tutorial Video")
